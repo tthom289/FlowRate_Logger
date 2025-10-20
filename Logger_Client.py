@@ -1,7 +1,6 @@
 """
 ESP32 BLE Multi-Device Flow Scanner Dashboard
-Requires: bleak, matplotlib
-Usage: python ble_flow_dashboard.py
+Requirements: bleak, matplotlib
 """
 
 import tkinter as tk
